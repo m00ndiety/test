@@ -1,2 +1,1 @@
-test.lua
-ok
+loadstring(game:HttpGet('https://raw.githubusercontent.com/adauser-gg/Idk/refs/heads/main/none.txt'))()
